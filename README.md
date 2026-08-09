@@ -1,3 +1,8 @@
+## security-scanner
+
+[![CI](https://github.com/null8878/security-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/null8878/security-scanner/actions)[![Security](https://github.com/null8878/security-scanner/actions/workflows/security.yml/badge.svg)](https://github.com/null8878/security-scanner/actions/workflows/security.yml)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # Security Scanner
 
 Vulnerability assessment and security scanning tool for web applications and infrastructure.
